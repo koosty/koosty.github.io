@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I Embrace the Struggle and Swim Against the Current
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kustian, pronounced like `Koosty`. A bit of my backgrounds:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I live in [Konoha](https://en.tempo.co/read/1815556/the-reasons-why-indonesian-netizens-call-their-country-konoha).
+- I work as a Software Engineer.
+- I love to talk about Tech, Culture, and Society.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Living in [Konoha](https://en.tempo.co/read/1815556/the-reasons-why-indonesian-netizens-call-their-country-konoha) can be both a blessing and a curse, and I choose the latter. Why? Because being born as a commoner, I have to struggle more than the nobles. Living under a curse makes you aware that nothing should be taken for granted.
+
+I earned my college degree through the hardest path imaginable; you could say I was a slave at that time(literally). However, it was that pain and discomfort that shaped me into who I am today.
+
+My first job as a Software Engineer felt like taking on a quest as an [Adventurer](https://overlordmaruyama.fandom.com/wiki/Adventurer). There was no contract, no direct contact with the employer—just show up on-site and get the job done.
+
+I view the world as a river. Should I flow with the current or swim against it? Naturally, I choose the latter.
